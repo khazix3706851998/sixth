@@ -5,7 +5,7 @@ public class Account {
     protected double balance;
     protected double annualInterestTate;
     public Account(){
-        int a =1;
+        int a =2;
     }
     public Account(int id,double balance,double annualInterestTate){
         super();
